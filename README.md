@@ -79,3 +79,9 @@ CUDA_VISIBLE_DEVICES=<available-gpu-ids> python eval.py data/tsp/tsp<20/50/100>_
     --width 1280 
 ```
 
+
+## Resources
+
+- [Optimal TSP Datasets generated with Concorde](https://drive.google.com/open?id=1-5W-S5e7CKsJ9uY9uVXIyxgbcZZNYBrp)
+- [Paper on arXiv](https://arxiv.org/abs/1910.07210)
+- [Wouter Kool's repository](https://github.com/wouterkool/attention-learn-to-route) and [ICLR paper](https://openreview.net/forum?id=ByxBFsRqYm)

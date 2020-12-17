@@ -1,5 +1,7 @@
 # On Learning Paradigms for the Travelling Salesman Problem
 
+>**:rocket: Update:** If you are interested in this work, you may be interested in [**our latest paper**](https://arxiv.org/abs/2006.07054) and [**up-to-date codebase**](https://github.com/chaitjo/learning-tsp) bringing together several architectures and learning paradigms for learning-driven TSP solvers under one pipeline.
+
 This repository contains code for the paper 
 [**"On Learning Paradigms for the Travelling Salesman Problem"**](https://arxiv.org/abs/1910.07210)
 by Chaitanya K. Joshi, Thomas Laurent and Xavier Bresson, presented at the [NeurIPS 2019 Graph Representation Learning Workshop](https://grlearning.github.io/overview/).
